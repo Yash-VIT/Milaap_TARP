@@ -1,0 +1,2 @@
+# MILAAP-F
+This is the project I submitted for my TARP. In this project, a Desktop Application will be built using Python through which police will register a complaint. A database is needed to store the reports and police record feed. This will be implemented using Firebase as the deployment is fairly universal. After registering the complaint and uploading the image, the system will match for the previous feeds and reports. If matched, subsequent authorities and parties involved will be notified. Otherwise, a new case will be submitted for further processing.
